@@ -55,7 +55,7 @@ answer, sources = answer_question("Le wifi est-il gratuit ?")
 
 ```
 .
-├── projet_04.ipynb      # Notebook principal
+├── hotel-rag-assistant.ipynb      # Notebook principal
 ├── data/                 # 5 PDF de documentation de l'hôtel
 ├── utils.py              # Fonctions utilitaires (print_chat, etc.)
 └── image.png
